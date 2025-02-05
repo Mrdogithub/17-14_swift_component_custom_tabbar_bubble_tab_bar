@@ -1,4 +1,26 @@
-关键字: 自定义标签 | 视图切换 | 
+### 功能关键字：
+自定义标签栏 | 页面导航 | 动态切换 | 气泡效果 | 页面切换 | 详情展示 | 返回功能 | 动画过渡 | 状态切换 | 按钮反馈
+
+### 视图组件关键字：
+View | Button | Image | Text | VStack | HStack | Spacer | GeometryReader | ForEach
+
+### 状态管理关键字：
+@State | @Binding | 状态提升 | 数据绑定 | 状态传递
+
+### 样式定制关键字：
+foregroundColor | background | cornerRadius | padding | frame | font | clipShape | resizable
+
+### 动画系统关键字：
+animation | transition | 状态动画 | default
+
+### 布局系统关键字：
+垂直布局 | 水平布局 | 弹性空间 | 安全区域 | 条件渲染 | 动态视图
+
+### 系统集成关键字：
+systemName | 系统字体 | 系统颜色 | safeAreaInsets | edgesIgnoringSafeArea
+
+### 架构设计关键字：
+组件化 | 模块化 | 代码复用 | 视图组织 | 数据流 | 属性包装器
 
 ![效果](./images/17-14.gif)
 # 介绍
